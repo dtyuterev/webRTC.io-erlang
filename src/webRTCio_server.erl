@@ -18,7 +18,7 @@
      terminate/2, code_change/3]).
 
 %% Need a dictionary for room storage
--import(dict).
+%-import(dict).
 
 -define(SERVER, ?MODULE). 
 
